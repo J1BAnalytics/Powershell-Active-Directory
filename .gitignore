@@ -1,0 +1,11 @@
+# Ignore PowerShell script execution logs
+*.log
+
+# Ignore user-specific settings files
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore built output
+bin/
+obj/
